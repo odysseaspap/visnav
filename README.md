@@ -1,7 +1,7 @@
 # Feature Based RGB-D SLAM system 
 
-Vision Based Navigation Practical Course, Technical University of Munich, Summer Term 2018.
-Developed and tested using the [TUM RGB-D dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset)
+Vision Based Navigation Practical Course, Technical University of Munich, Summer Term 2018.  
+Developed and tested using the [TUM RGB-D dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset).    
 
 # Dependencies
 - OpenCV https://opencv.org/
